@@ -1,0 +1,138 @@
+{
+  "info": {
+    "defaultLang": "true",
+    "direction": "ltr",
+    "language": "en",
+    "referral": "ivo-7",
+    "ivoCode": "ivo-1002",
+    "ivoQRCode": "/resources/businesses/linkedivo/images/ivo-1000.svg",
+    "id": "1002",
+    "userName": "navan",
+    "name": "navan",
+    "slogan": "think the design, design the thinking",
+    "metaDescription": "At Navan, we're not just a digital marketing agency; we're your dedicated partner in achieving digital success.",
+    "country": "Oman",
+    "province": "Muscat",
+    "city": "Muscat",
+    "url": "https://navan.one",
+    "email": "info@navan.one",
+    "phone": "+968 9176 1527",
+    "logo": "/resources/businesses/linkedivo/images/logo.svg",
+    "mainField": ["IT", "Marketing"]
+  },
+  "overview": {
+    "summary": "We're a digital marketing agency that helps businesses of all sizes achieve their online marketing goals. Our experts specialize in Web design, SEO, SEM, social media marketing, and content creation. Let us help you stand out in the crowded online space and grow your business.",
+    "mission": "Our mission at Navan is to provide businesses with tailored digital solutions that not only meet but exceed their expectations. We are committed to being a trusted partner, offering creative, innovative, and up-to-date strategies that support our clients in achieving their growth and expansion goals.",
+    "vision": "Our vision is to empower businesses through tailored digital solutions. We aim to be the driving force behind brand websites that fuel growth, development, and expansion. By crafting impactful digital strategies, we aspire to help businesses thrive and reach their full potential in the ever-evolving digital landscape.",
+    "values": "At Navan, we're not just a digital marketing agency; we're your dedicated partner in achieving digital success. Here are compelling reasons to choose us: Excellence: Our commitment to delivering excellence in every aspect of our work ensures the highest quality results for your brand. From design to strategy, expect nothing less than outstanding outcomes.Creativity: We thrive on creativity, viewing it as the cornerstone of innovation. By pushing boundaries, we craft unique and impactful digital solutions that set your brand apart.Collaboration: Our collaborative approach brings together diverse perspectives to achieve exceptional outcomes for your brand. Your ideas and vision, combined with our expertise, create digital magic. Integrity: Integrity is the foundation of our interactions with clients and partners. You can trust us for unwavering honesty, ethics, and transparency at every step of our journey together. Adaptability: In the ever-evolving digital landscape, we welcome change and stay at the forefront of industry trends and technologies. You can count on us for the most relevant and cutting-edge solutions. Client-Centric: Your unique needs are our priority. We go above and beyond to understand your brand's goals and aspirations, ensuring a tailor-made approach that exceeds your expectations.Results-Driven: Our success is measured by the tangible value we bring to your business. We're dedicated to helping you achieve your digital goals and witnessing your brand flourish in the digital realm.Choose Navan as your digital marketing partner, and together, we'll transform your digital aspirations into triumphant realities."
+  },
+  "services": {
+    "service1": {
+      "title": "Branding",
+      "description": "Create memorable and meaningful brand identities.",
+      "image": "https://linkedivo.com/linkedivo/images/service1.svg"
+    },
+    "service2": {
+      "title": "Web Design",
+      "description": "Develop user-friendly websites that drive conversions.",
+      "image": "https://linkedivo.com/linkedivo/images/service2.svg"
+    },
+    "service3": {
+      "title": "Graphic Design",
+      "description": "Elevate visual identity and communicate effectively.",
+      "image": "https://linkedivo.com/linkedivo/images/service3.svg"
+    },
+    "service4": {
+      "title": "SEO",
+      "description": "Boost online visibility and drive website traffic.",
+      "image": "https://linkedivo.com/linkedivo/images/service4.svg"
+    },
+    "service5": {
+      "title": "SEM",
+      "description": "Increase brand awareness with paid search advertising.",
+      "image": "https://linkedivo.com/linkedivo/images/service5.svg"
+    },
+    "service6": {
+      "title": "Google Services",
+      "description": "Drive targeted traffic and maximize ROI.",
+      "image": "https://linkedivo.com/linkedivo/images/service6.svg"
+    },
+    "service7": {
+      "title": "Marketing Campaign",
+      "description": "Achieve measurable results and exceed business goals.",
+      "image": "https://linkedivo.com/linkedivo/images/service7.svg"
+    },
+    "service8": {
+      "title": "Social Media",
+      "description": "Build communities and increase brand loyalty.",
+      "image": "https://linkedivo.com/linkedivo/images/service8.svg"
+    },
+    "service9": {
+      "title": "Content Production",
+      "description": "Create compelling and shareable content.",
+      "image": "https://linkedivo.com/linkedivo/images/service9.svg"
+    },
+    "service10": {
+      "title": "Mobile Application",
+      "description": "Intuitive mobile experiences that bring ideas to life.",
+      "image": "https://linkedivo.com/linkedivo/images/service10.svg"
+    },
+    "service11": {
+      "title": "CRM",
+      "description": "Personalized engagement for lasting connections.",
+      "image": "https://linkedivo.com/linkedivo/images/service11.svg"
+    },
+    "service12": {
+      "title": "E-Commerce",
+      "description": "Innovative platforms for captivating online shopping experiences.",
+      "image": "https://linkedivo.com/linkedivo/images/service12.svg"
+    }
+  },
+  "contacts": {
+    "address": "Number 24, innovation street, Toronto, Canada",
+    "phone": "+1 213 772 0805",
+    "email": "info@linkedivo.com",
+    "website": "https://linkedivo.com",
+    "socialMedia": {
+      "linkedivo": "https://linkedivo.com/linkedivo",
+      "instagram": "https://instagram.com/linkedivo",
+      "facebook": "https://facebook.com/linkedivo",
+      "linkedin": "https://linkedin.com/linkedivo",
+      "whatsapp": "https://wa.me/+96891711527",
+      "telegram": "https://t.me/+96891711527",
+      "youtube": "https://youtube.com/linkedivo",
+      "twitter": "https://x.com/linkedivo"
+    },
+    "googleMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10662884.764945788!2d-84.74963605!3d49.2717859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05b25f5113af%3A0x70f8425629621e09!2sOntario%2C%20Canada!5e0!3m2!1sen!2som!4v1700084501440!5m2!1sen!2som"
+  },
+  "gallery": {
+    "gallery1": {
+      "title": "project 1 title",
+      "description": "project 1 description",
+      "image": "/resources/businesses/linkedivo/images/service-1.png"
+    },
+    "gallery2": {
+      "title": "project 2 title",
+      "description": "project 2 description",
+      "image": "/resources/businesses/linkedivo/images/service-2.png"
+    }
+  },
+  "moreInfo": {
+    "moreInfo1": {
+      "title": "Download Company Profile 1",
+      "link": "www.linkedivo.com/linkedivo/companyprofile1.pdf",
+      "description": "service 1 description",
+      "image": "/resources/businesses/linkedivo/images/service-1.png"
+    },
+    "moreInfo2": {
+      "title": "Download Company Profile2",
+      "link": "www.linkedivo.com/linkedivo/companyprofile2.pdf",
+      "description": "service 2 description",
+      "image": "/resources/businesses/linkedivo/images/service-2.png"
+    }
+  },
+  "categories": {
+    "IT": ["programming", "web design"],
+    "Marketing": ["Digital Marketing", "Advertisement", "printing"]
+  }
+}

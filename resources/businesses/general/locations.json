@@ -1,0 +1,189 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "title": "canada",
+      "slug": "canada",
+      "subcategories": [
+        {
+          "id": 101,
+          "title": "toronto",
+          "slug": "toronto"
+        },
+        {
+          "id": 102,
+          "title": "vancouver",
+          "slug": "vancouver"
+        },
+        {
+          "id": 103,
+          "title": "winnipeg",
+          "slug": "winnipeg"
+        },
+        {
+          "id": 104,
+          "title": "calgary",
+          "slug": "calgary"
+        },
+        {
+          "id": 105,
+          "title": "montreal",
+          "slug": "montreal"
+        },
+        {
+          "id": 106,
+          "title": "quebec",
+          "slug": "quebec"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iran",
+      "slug": "iran",
+      "subcategories": [
+        {
+          "id": 201,
+          "title": "tehran",
+          "slug": "tehran"
+        },
+        {
+          "id": 202,
+          "title": "hamedan",
+          "slug": "hamedan"
+        },
+        {
+          "id": 203,
+          "title": "esfahan",
+          "slug": "esfahan"
+        },
+        {
+          "id": 204,
+          "title": "mashhad",
+          "slug": "mashhad"
+        },
+        {
+          "id": 205,
+          "title": "shiraz",
+          "slug": "shiraz"
+        },
+        {
+          "id": 206,
+          "title": "tabriz",
+          "slug": "tabriz"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "oman",
+      "slug": "oman",
+      "subcategories": [
+        {
+          "id": 301,
+          "title": "muscat",
+          "slug": "muscat"
+        },
+        {
+          "id": 302,
+          "title": "sohar",
+          "slug": "sohar"
+        },
+        {
+          "id": 303,
+          "title": "salalah",
+          "slug": "salalah"
+        },
+        {
+          "id": 304,
+          "title": "nizwa",
+          "slug": "nizwa"
+        },
+        {
+          "id": 305,
+          "title": "barka",
+          "slug": "barka"
+        },
+        {
+          "id": 306,
+          "title": "sur",
+          "slug": "sur"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "turkey",
+      "slug": "turkey",
+      "subcategories": [
+        {
+          "id": 401,
+          "title": "istanbul",
+          "slug": "istanbul"
+        },
+        {
+          "id": 402,
+          "title": "izmir",
+          "slug": "izmir"
+        },
+        {
+          "id": 403,
+          "title": "antalya",
+          "slug": "antalya"
+        },
+        {
+          "id": 404,
+          "title": "ankara",
+          "slug": "ankara"
+        },
+        {
+          "id": 405,
+          "title": "bursa",
+          "slug": "bursa"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "united arab emirates",
+      "slug": "united-arab-emirates",
+      "subcategories": [
+        {
+          "id": 501,
+          "title": "dubai",
+          "slug": "dubai"
+        },
+        {
+          "id": 502,
+          "title": "sharjah",
+          "slug": "sharjah"
+        },
+        {
+          "id": 503,
+          "title": "abu dhabi",
+          "slug": "abu-dhabi"
+        },
+        {
+          "id": 504,
+          "title": "ajman",
+          "slug": "ajman"
+        },
+        {
+          "id": 505,
+          "title": "ras al khaimah",
+          "slug": "ras-al-khaimah"
+        },
+        {
+          "id": 506,
+          "title": "fujairah",
+          "slug": "fujairah"
+        },
+        {
+          "id": 507,
+          "title": "umm al quwain",
+          "slug": "umm-al-quwain"
+        }
+      ]
+    }
+  ]
+}

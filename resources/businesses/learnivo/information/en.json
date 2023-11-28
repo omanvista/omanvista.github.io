@@ -1,0 +1,72 @@
+{
+  "info": {
+    "defaultLang": "true",
+    "direction": "ltr",
+    "language": "en",
+    "referral": "ivo-1",
+    "ivoCode": "ivo-1004",
+    "ivoQRCode": "/resources/businesses/learnivo/images/ivo-1000.svg",
+    "id": "1004",
+    "userName": "learnivo",
+    "name": "learnivo",
+    "slogan": "Unlocking Potential, Empowering Futures",
+    "metaDescription": "At Learnivo, dive into a world of comprehensive online learning, specializing in programming, robotics, and language training. Empower yourself with cutting-edge courses, personalized experiences, and a vibrant community. Start your journey towards mastery today.",
+    "country": "Iran",
+    "province": "Tehran",
+    "city": "Tehran",
+    "url": "https://learnivo.org",
+    "email": "info@learnivo.org",
+    "phone": "+98 919 766 4574",
+    "logo": "/resources/businesses/learnivo/images/logo.svg",
+    "mainField": ["Training", "LMS"]
+  },
+  "overview": {
+    "summary": "Learnivo is an innovative online learning platform dedicated to providing immersive programming, robotics, and language training. Our mission is to empower learners globally by offering high-quality, accessible education through cutting-edge courses and personalized experiences. At Learnivo, we foster a supportive community, encouraging skill mastery and nurturing curiosity to prepare individuals for success in a rapidly evolving world.",
+    "mission": "To revolutionize learning by delivering cutting-edge programming, robotics, and language training through an intuitive, interactive online platform. We aim to inspire curiosity, foster mastery, and facilitate skill acquisition for learners of all backgrounds, enabling them to thrive in an ever-evolving global landscape.",
+    "vision": "Empowering learners worldwide to excel in technology, innovation, and language proficiency through immersive, accessible, and personalized online learning experiences.",
+    "values": "<br><strong>Excellence: </strong>We strive for excellence in content, delivery, and support, ensuring the highest quality of learning experiences.<br><strong>Innovation: </strong>We embrace innovation to continuously enhance learning methods, technologies, and content to stay ahead in a dynamic educational landscape.<br><strong>Accessibility:</strong> We believe in providing inclusive, affordable, and accessible education to learners worldwide, regardless of their backgrounds or locations.<br><strong>Empowerment:</strong> We empower learners by fostering a supportive environment that encourages self-paced learning, critical thinking, and problem-solving.<br><strong>Community: </strong>We cultivate a vibrant learning community, promoting collaboration, diversity, and mutual support among learners, instructors, and mentors.<br><strong>Adaptability: </strong>We adapt swiftly to changing needs and technologies, ensuring our curriculum remains relevant and effective."
+  },
+  "services": {
+    "service1": {
+      "title": "Learning Management System ",
+      "description": "Learnivo: Your gateway to premier online learning in programming, robotics, and language training, fostering mastery and global success through immersive education.",
+      "image": "/resources/businesses/linkedivo/images/service1.svg"
+    }
+  },
+  "contacts": {
+    "address": "Poonak, Tehran, Iran",
+    "phone": "+98 919 766 4574",
+    "email": "info@learnivo.org",
+    "website": "https://learnivo.org",
+    "socialMedia": {
+      "linkedivo": "https://linkedivo.com/learnivo",
+      "instagram": "https://instagram.com/learnivo",
+      "facebook": "https://facebook.com/learnivo",
+      "linkedin": "https://linkedin.com/learnivo",
+      "whatsapp": "https://wa.me/+989197664574",
+      "telegram": "https://t.me/+989197664574",
+      "youtube": "https://youtube.com/learnivo",
+      "twitter": "https://x.com/learnivo"
+    },
+    "googleMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12950.330842746253!2d51.33765215!3d35.76106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f8dfd420e8e1b11%3A0x4306cde5c02091c7!2sPunak%2C%20District%202%2C%20Tehran%2C%20Tehran%20Province%2C%20Iran!5e0!3m2!1sen!2som!4v1701079763032!5m2!1sen!2som"
+  },
+  "gallery": {
+    "gallery1": {
+      "title": "Learning Management System",
+      "description": "Learnivo: Your gateway to premier online learning in programming, robotics, and language training, fostering mastery and global success through immersive education.",
+      "image": "/resources/businesses/linkedivo/images/service-1.png"
+    }
+  },
+  "moreInfo": {
+    "moreInfo1": {
+      "title": "Download Company Profile 1",
+      "link": "www.linkedivo.com/learnivo/companyprofile1.pdf",
+      "description": "service 1 description",
+      "image": "/resources/businesses/linkedivo/images/service-1.png"
+    }
+  },
+  "categories": {
+    "IT": ["programming", "web design"],
+    "Marketing": ["Digital Marketing", "Advertisement", "printing"]
+  }
+}

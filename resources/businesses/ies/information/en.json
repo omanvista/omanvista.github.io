@@ -1,0 +1,72 @@
+{
+  "info": {
+    "defaultLang": "true",
+    "direction": "ltr",
+    "language": "en",
+    "referral": "ivo-1",
+    "ivoCode": "ivo-1003",
+    "ivoQRCode": "/resources/businesses/ies/images/ies-qr-code.svg",
+    "id": "1003",
+    "userName": "ies",
+    "name": "Innovative E-commerce Solutions",
+    "slogan": "Touch Futures Now",
+    "metaDescription": "Linkedivo is a revolutionary business networking platform designed to connect businesses and individuals, offering a simple and efficient way to find their needs and connect with like-minded professionals.",
+    "country": "oman",
+    "province": "muscat",
+    "city": "muscat",
+    "url": "https://linkedivo.com/ies",
+    "email": "iescompany@gmail.com",
+    "phone": "+968 9176 1527",
+    "logo": "/resources/businesses/ies/images/ies-logo.png",
+    "mainField": ["IT", "Marketing"]
+  },
+  "overview": {
+    "summary": "IES is a revolutionary business networking platform designed to connect businesses and individuals, offering a simple and efficient way to find their needs and connect with like-minded professionals. Our platform serves as a comprehensive hub, facilitating seamless collaborations and unlocking new opportunities for growth and success.",
+    "mission": "Our mission is to provide a user-friendly platform that streamlines business connections, making it simple for users to discover and connect with businesses. We strive to create an environment where individuals and organizations can easily find their needs, form strategic partnerships, and unlock new opportunities for growth and success.",
+    "vision": "To create a business networking platform that simplifies connections, making it effortless for individuals and organizations to find and partner with businesses. We envision a global hub where finding the right solutions and forging valuable partnerships is easy, empowering businesses to thrive and grow.",
+    "values": "<strong>Simplification:<strong> We are dedicated to simplifying the process of business connections, eliminating complexities, and providing a seamless experience for users to easily find and connect with the right businesses.<br><strong>Accessibility<strong>: We believe in creating an inclusive platform that is accessible to users from all backgrounds, locations, and industries. Our aim is to connect businesses and individuals globally, regardless of their geographical location.<br><strong>Empowerment<strong>: We empower users by equipping them with the necessary tools, resources, and insights to make informed decisions and form meaningful partnerships that drive their businesses forward.<br><strong>Trust and Transparency:<strong> We foster an environment of trust and transparency, ensuring businesses present themselves accurately and users can rely on authentic information to make connections that align with their needs and goals.<br><strong>Innovation:<strong> We embrace innovation to continuously enhance our platform, leveraging emerging technologies and user feedback to provide an evolving and cutting-edge experience that meets the ever-changing demands of business networking."
+  },
+  "services": {
+    "service1": {
+      "title": "Business Directory",
+      "description": "The business networking and B2B/C2B marketplace industry is experiencing significant growth and presents immense opportunities for Linkedivo.",
+      "image": "/resources/businesses/ies/images/service1.svg"
+    }
+  },
+  "contacts": {
+    "address": "Al Mazoon Business Center, Al Mazoon street, Southern Mawalleh, Muscat, Oman",
+    "phone": "+968 9176 1527",
+    "email": "iescompany@gmail.com",
+    "website": "https://linkedivo.com/ies",
+    "socialMedia": {
+      "linkedivo": "https://linkedivo.com/ies",
+      "instagram": "https://instagram.com/ies",
+      "facebook": "https://facebook.com/ies",
+      "linkedin": "https://linkedin.com/ies",
+      "whatsapp": "https://wa.me/+96891761527",
+      "telegram": "https://t.me/+96891761527",
+      "youtube": "https://youtube.com/ies",
+      "twitter": "https://x.com/ies"
+    },
+    "googleMap": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2955.3105429416455!2d58.21098495077041!3d23.610346270947648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2som!4v1701169249699!5m2!1sen!2som"
+  },
+  "gallery": {
+    "gallery1": {
+      "title": "Business Marketing",
+      "description": "Linkedivo's platform caters to a diverse target audience, including businesses of various sizes, entrepreneurs, freelancers, and professionals seeking B2B and C2B connections. ",
+      "image": "/resources/businesses/ies/images/service-1.png"
+    }
+  },
+  "moreInfo": {
+    "moreInfo1": {
+      "title": "Download Company Profile 1",
+      "link": "www.linkedivo.com/linkedivo/companyprofile1.pdf",
+      "description": "service 1 description",
+      "image": "/resources/businesses/ies/images/service-1.png"
+    }
+  },
+  "categories": {
+    "IT": ["programming", "web design"],
+    "Marketing": ["Digital Marketing", "Advertisement", "printing"]
+  }
+}

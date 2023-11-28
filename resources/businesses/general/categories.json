@@ -1,0 +1,474 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Restaurants and Cafes",
+      "slug": "restaurants-and-cafes",
+      "subcategories": [
+        {
+          "id": 101,
+          "title": "Fine Dining",
+          "slug": "fine-dining"
+        },
+        {
+          "id": 102,
+          "title": "Fast Food",
+          "slug": "fast-food"
+        },
+        {
+          "id": 103,
+          "title": "Coffee Shops",
+          "slug": "coffee-shops"
+        },
+        {
+          "id": 104,
+          "title": "Food Trucks",
+          "slug": "food-trucks"
+        },
+        {
+          "id": 105,
+          "title": "Pizzerias",
+          "slug": "pizzerias"
+        },
+        {
+          "id": 106,
+          "title": "Bakeries",
+          "slug": "bakeries"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Retail",
+      "slug": "retail",
+      "subcategories": [
+        {
+          "id": 201,
+          "title": "Clothing Stores",
+          "slug": "clothing-stores"
+        },
+        {
+          "id": 202,
+          "title": "Electronics Shops",
+          "slug": "electronics-shops"
+        },
+        {
+          "id": 203,
+          "title": "Bookstores",
+          "slug": "bookstores"
+        },
+        {
+          "id": 204,
+          "title": "Grocery Stores",
+          "slug": "grocery-stores"
+        },
+        {
+          "id": 205,
+          "title": "Furniture Stores",
+          "slug": "furniture-stores"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Health and Wellness",
+      "slug": "health-and-wellness",
+      "subcategories": [
+        {
+          "id": 301,
+          "title": "Gyms and Fitness Centers",
+          "slug": "gyms-and-fitness-centers"
+        },
+        {
+          "id": 302,
+          "title": "Yoga Studios",
+          "slug": "yoga-studios"
+        },
+        {
+          "id": 303,
+          "title": "Spa and Wellness Centers",
+          "slug": "spa-and-wellness-centers"
+        },
+        {
+          "id": 304,
+          "title": "Medical Clinics",
+          "slug": "medical-clinics"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Professional Services",
+      "slug": "professional-services",
+      "subcategories": [
+        {
+          "id": 401,
+          "title": "Law Firms",
+          "slug": "law-firms"
+        },
+        {
+          "id": 402,
+          "title": "Accounting Firms",
+          "slug": "accounting-firms"
+        },
+        {
+          "id": 403,
+          "title": "Marketing Agencies",
+          "slug": "marketing-agencies"
+        },
+        {
+          "id": 404,
+          "title": "Consulting Services",
+          "slug": "consulting-services"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Entertainment",
+      "slug": "entertainment",
+      "subcategories": [
+        {
+          "id": 501,
+          "title": "Movie Theaters",
+          "slug": "movie-theaters"
+        },
+        {
+          "id": 502,
+          "title": "Bowling Alleys",
+          "slug": "bowling-alleys"
+        },
+        {
+          "id": 503,
+          "title": "Amusement Parks",
+          "slug": "amusement-parks"
+        },
+        {
+          "id": 504,
+          "title": "Nightclubs",
+          "slug": "nightclubs"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Automotive",
+      "slug": "automotive",
+      "subcategories": [
+        {
+          "id": 601,
+          "title": "Car Dealerships",
+          "slug": "car-dealerships"
+        },
+        {
+          "id": 602,
+          "title": "Auto Repair Shops",
+          "slug": "auto-repair-shops"
+        },
+        {
+          "id": 603,
+          "title": "Gas Stations",
+          "slug": "gas-stations"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Technology and Electronics",
+      "slug": "technology-and-electronics",
+      "subcategories": [
+        {
+          "id": 701,
+          "title": "Computer Stores",
+          "slug": "computer-stores"
+        },
+        {
+          "id": 702,
+          "title": "Mobile Phone Shops",
+          "slug": "mobile-phone-shops"
+        },
+        {
+          "id": 703,
+          "title": "Electronics Repair",
+          "slug": "electronics-repair"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Hospitality and Accommodation",
+      "slug": "hospitality-and-accommodation",
+      "subcategories": [
+        {
+          "id": 801,
+          "title": "Hotels",
+          "slug": "hotels"
+        },
+        {
+          "id": 802,
+          "title": "Bed and Breakfasts",
+          "slug": "bed-and-breakfasts"
+        },
+        {
+          "id": 803,
+          "title": "Vacation Rentals",
+          "slug": "vacation-rentals"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Arts and Culture",
+      "slug": "arts-and-culture",
+      "subcategories": [
+        {
+          "id": 901,
+          "title": "Art Galleries",
+          "slug": "art-galleries"
+        },
+        {
+          "id": 902,
+          "title": "Museums",
+          "slug": "museums"
+        },
+        {
+          "id": 903,
+          "title": "Theaters",
+          "slug": "theaters"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Education and Training",
+      "slug": "education-and-training",
+      "subcategories": [
+        {
+          "id": 1001,
+          "title": "Schools and Colleges",
+          "slug": "schools-and-colleges"
+        },
+        {
+          "id": 1002,
+          "title": "Tutoring Services",
+          "slug": "tutoring-services"
+        },
+        {
+          "id": 1003,
+          "title": "Language Schools",
+          "slug": "language-schools"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Home and Garden",
+      "slug": "home-and-garden",
+      "subcategories": [
+        {
+          "id": 1101,
+          "title": "Home Improvement Stores",
+          "slug": "home-improvement-stores"
+        },
+        {
+          "id": 1102,
+          "title": "Gardening Centers",
+          "slug": "gardening-centers"
+        },
+        {
+          "id": 1103,
+          "title": "Appliance Stores",
+          "slug": "appliance-stores"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Finance and Banking",
+      "slug": "finance-and-banking",
+      "subcategories": [
+        {
+          "id": 1201,
+          "title": "Banks",
+          "slug": "banks"
+        },
+        {
+          "id": 1202,
+          "title": "Credit Unions",
+          "slug": "credit-unions"
+        },
+        {
+          "id": 1203,
+          "title": "Investment Firms",
+          "slug": "investment-firms"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Transportation and Logistics",
+      "slug": "transportation-and-logistics",
+      "subcategories": [
+        {
+          "id": 1301,
+          "title": "Taxi Services",
+          "slug": "taxi-services"
+        },
+        {
+          "id": 1302,
+          "title": "Courier Services",
+          "slug": "courier-services"
+        },
+        {
+          "id": 1303,
+          "title": "Moving Companies",
+          "slug": "moving-companies"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Food and Beverage",
+      "slug": "food-and-beverage",
+      "subcategories": [
+        {
+          "id": 1401,
+          "title": "Breweries",
+          "slug": "breweries"
+        },
+        {
+          "id": 1402,
+          "title": "Wineries",
+          "slug": "wineries"
+        },
+        {
+          "id": 1403,
+          "title": "Distilleries",
+          "slug": "distilleries"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Pet Services",
+      "slug": "pet-services",
+      "subcategories": [
+        {
+          "id": 1501,
+          "title": "Pet Stores",
+          "slug": "pet-stores"
+        },
+        {
+          "id": 1502,
+          "title": "Veterinary Clinics",
+          "slug": "veterinary-clinics"
+        },
+        {
+          "id": 1503,
+          "title": "Pet Grooming",
+          "slug": "pet-grooming"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Travel and Tourism",
+      "slug": "travel-and-tourism",
+      "subcategories": [
+        {
+          "id": 1601,
+          "title": "Travel Agencies",
+          "slug": "travel-agencies"
+        },
+        {
+          "id": 1602,
+          "title": "Tour Operators",
+          "slug": "tour-operators"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Real Estate",
+      "slug": "real-estate",
+      "subcategories": [
+        {
+          "id": 1701,
+          "title": "Real Estate Agencies",
+          "slug": "real-estate-agencies"
+        },
+        {
+          "id": 1702,
+          "title": "Property Management",
+          "slug": "property-management"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Sports and Recreation",
+      "slug": "sports-and-recreation",
+      "subcategories": [
+        {
+          "id": 1801,
+          "title": "Sports Complexes",
+          "slug": "sports-complexes"
+        },
+        {
+          "id": 1802,
+          "title": "Golf Courses",
+          "slug": "golf-courses"
+        },
+        {
+          "id": 1803,
+          "title": "Sports Clubs",
+          "slug": "sports-clubs"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Environmental and Green Businesses",
+      "slug": "environmental-and-green-businesses",
+      "subcategories": [
+        {
+          "id": 1901,
+          "title": "Eco-friendly Retailers",
+          "slug": "eco-friendly-retailers"
+        },
+        {
+          "id": 1902,
+          "title": "Solar Energy Installers",
+          "slug": "solar-energy-installers"
+        },
+        {
+          "id": 1903,
+          "title": "Recycling Centers",
+          "slug": "recycling-centers"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Miscellaneous",
+      "slug": "miscellaneous",
+      "subcategories": [
+        {
+          "id": 2001,
+          "title": "Convenience Stores",
+          "slug": "convenience-stores"
+        },
+        {
+          "id": 2002,
+          "title": "Gas Stations",
+          "slug": "gas-stations"
+        },
+        {
+          "id": 2003,
+          "title": "Laundromats",
+          "slug": "laundromats"
+        }
+      ]
+    }
+  ]
+}

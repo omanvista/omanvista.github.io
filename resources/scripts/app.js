@@ -812,7 +812,7 @@ function homePage() {
       <div class="home-logo">
         <img
           src="resources/images/omanvista-logo.svg"
-          alt="Linkedivo logo"
+          alt="Oman Vista logo"
         />
       </div>
       <div class="home-search">

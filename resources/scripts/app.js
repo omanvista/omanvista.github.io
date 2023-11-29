@@ -811,7 +811,7 @@ function homePage() {
  <main class="home-main-business" id="main-business">
       <div class="home-logo">
         <img
-          src="resources/images/linkedivo-logo-dark.svg"
+          src="resources/images/omanvista-logo.svg"
           alt="Linkedivo logo"
         />
       </div>

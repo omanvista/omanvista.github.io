@@ -79,10 +79,10 @@ function businessPageMaker() {
             <img
               class="header-profile-logo"
               src="resources/images/logo-profile.svg"
-              alt="linkedivo"
+              alt="omanvista"
             />
             <figcaption>
-              <h1 class="business-name">Linkedivo</h1>
+              <h1 class="business-name">omanvista</h1>
               <h2 class="business-field">Where Connection Happen</h2>
             </figcaption>
           </figure>
@@ -94,8 +94,8 @@ function businessPageMaker() {
             </div>
             <div class="contact-item">
               <i class="fa fa-globe"></i>
-              <a class="header-info-website" href="https://linkedivo.com"
-                >www.linkedivo.com</a
+              <a class="header-info-website" href="https://omanvista.com"
+                >www.omanvista.com</a
               >
             </div>
             <div class="contact-item">
@@ -106,8 +106,8 @@ function businessPageMaker() {
             </div>
             <div class="contact-item">
               <i class="fa fa-envelope"></i>
-              <a class="header-info-email" href="mailto:info@linkedivo.com"
-                >info@linkedivo.com</a
+              <a class="header-info-email" href="mailto:info@omanvista.com"
+                >info@omanvista.com</a
               >
             </div>
           </div>
@@ -116,7 +116,7 @@ function businessPageMaker() {
               <img
                 class="header-qr-code-img"
                 src="resources/businesses/navan/images/navan-qr-code.svg"
-                alt="linkedivo qr code"
+                alt="omanvista qr code"
               />
             </div>
             <div class="header-quick-access">
@@ -252,7 +252,7 @@ function businessPageMaker() {
   // body //////////////////////////////////////////////////////
   // overview
   // summary
-  if (businessInfo.overview.mission) {
+  if (businessInfo.overview.summary) {
     overview.innerHTML += `<div class="overview-card details-card box-shadow">
             <h2 class="summary-title">Executive Summary</h2>
             <p class="summary-description">

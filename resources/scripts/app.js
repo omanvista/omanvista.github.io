@@ -231,11 +231,11 @@ function businessPageMaker() {
   );
   headerQrCode.setAttribute("alt", `${businessInfo.info.name} QR code`);
 
-  addToContactFunc(addToContact, businessInfo.info.name, businessInfo.info.email, `https://linkedivo.com/${businessInfo.info.userName}`, businessInfo.info.phone);
+  addToContactFunc(addToContact, businessInfo.info.name, businessInfo.info.email, `https://omanvista.com/${businessInfo.info.userName}`, businessInfo.info.phone);
 
   const modalShareLink = document.querySelector(`.fa-share-alt`);
   modalShareLink.addEventListener('click', function () {
-    modalShareInfoHandler(`https://linkedivo.com/${businessInfo.info.userName}`);
+    modalShareInfoHandler(`https://omanvista.com/${businessInfo.info.userName}`);
   });
 
   const bookmark = document.querySelector(`.fa-bookmark`);

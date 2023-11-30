@@ -2,38 +2,38 @@
   "countries": [
     {
       "id": 1,
-      "title": "canada",
-      "slug": "canada",
+      "title": "oman",
+      "slug": "oman",
       "subcategories": [
         {
-          "id": 101,
-          "title": "toronto",
-          "slug": "toronto"
+          "id": 301,
+          "title": "muscat",
+          "slug": "muscat"
         },
         {
-          "id": 102,
-          "title": "vancouver",
-          "slug": "vancouver"
+          "id": 302,
+          "title": "sohar",
+          "slug": "sohar"
         },
         {
-          "id": 103,
-          "title": "winnipeg",
-          "slug": "winnipeg"
+          "id": 303,
+          "title": "salalah",
+          "slug": "salalah"
         },
         {
-          "id": 104,
-          "title": "calgary",
-          "slug": "calgary"
+          "id": 304,
+          "title": "nizwa",
+          "slug": "nizwa"
         },
         {
-          "id": 105,
-          "title": "montreal",
-          "slug": "montreal"
+          "id": 305,
+          "title": "barka",
+          "slug": "barka"
         },
         {
-          "id": 106,
-          "title": "quebec",
-          "slug": "quebec"
+          "id": 306,
+          "title": "sur",
+          "slug": "sur"
         }
       ]
     },
@@ -74,43 +74,43 @@
         }
       ]
     },
-    {
-      "id": 3,
-      "title": "oman",
-      "slug": "oman",
-      "subcategories": [
-        {
-          "id": 301,
-          "title": "muscat",
-          "slug": "muscat"
-        },
-        {
-          "id": 302,
-          "title": "sohar",
-          "slug": "sohar"
-        },
-        {
-          "id": 303,
-          "title": "salalah",
-          "slug": "salalah"
-        },
-        {
-          "id": 304,
-          "title": "nizwa",
-          "slug": "nizwa"
-        },
-        {
-          "id": 305,
-          "title": "barka",
-          "slug": "barka"
-        },
-        {
-          "id": 306,
-          "title": "sur",
-          "slug": "sur"
-        }
-      ]
-    },
+   {
+    "id": 3,
+    "title": "canada",
+    "slug": "canada",
+    "subcategories": [
+      {
+        "id": 101,
+        "title": "toronto",
+        "slug": "toronto"
+      },
+      {
+        "id": 102,
+        "title": "vancouver",
+        "slug": "vancouver"
+      },
+      {
+        "id": 103,
+        "title": "winnipeg",
+        "slug": "winnipeg"
+      },
+      {
+        "id": 104,
+        "title": "calgary",
+        "slug": "calgary"
+      },
+      {
+        "id": 105,
+        "title": "montreal",
+        "slug": "montreal"
+      },
+      {
+        "id": 106,
+        "title": "quebec",
+        "slug": "quebec"
+      }
+    ]
+  },
     {
       "id": 4,
       "title": "turkey",

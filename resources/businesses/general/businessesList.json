@@ -46,5 +46,17 @@
     "logo": "/resources/businesses/learnivo/images/learnivo-logo.png",
     "categories": "lms,Training",
     "metaDescription": "At Learnivo, dive into a world of comprehensive online learning, specializing in programming, robotics, and language training. Empower yourself with cutting-edge courses, personalized experiences, and a vibrant community. Start your journey towards mastery today."
+  },
+  "id1005": {
+    "id": "1005",
+    "userName": "focus",
+    "name": "focus",
+    "title": "Dental Facial Cosmetics",
+    "slogan": "Dental Facial Cosmetics",
+    "country": "Oman",
+    "city": "Muscat",
+    "logo": "/resources/businesses/focus/images/focus-logo.png",
+    "categories": "Health-And-Wellness",
+    "metaDescription": "Focus Dental Facial Cosmetics, Muscat's premier center, offers cutting-edge treatments merging dental and facial aesthetics. Experience personalized care for your brightest smile and refined facial features, all under one roof."
   }
 }

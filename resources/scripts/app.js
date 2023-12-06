@@ -712,12 +712,11 @@ function explorerPageMaker() {
           </label>`;
 
         element.subcategories.forEach((elem) => {
-          citiesDropDown.innerHTML += `
+          citiesDropDown.innerHTML +=`
           <label>
-            <span > ${elem.title}</span>
-            <input type="checkbox" value="${elem.slug}" data-type="city">
-          </label>  `;
-
+          <span> ${element.title}</span>
+          <input type="checkbox" value="${element.slug}" data-type="city">
+          </label>`; 
         });
       });
 
@@ -918,15 +917,11 @@ function filterUpdater(defaultBusinessCards, defaultCheckBox, searchInput) {
 
       if (checkBox.dataset.type === "city") {
         cities = cities.filter(element => element !== checkBox.value);
-
-
       }
 
       if (checkBox.dataset.type === "category") {
         categories = categories.filter(element => element !== checkBox.value);
-
       }
-
     }
 
   }
@@ -1070,6 +1065,23 @@ function filterDropdownCityUpdater() {
       })
     })
   }
+
+
+// // Filter checkbox - dropdown filter - checkbox event in dropdown list  
+const businessCards = document.querySelectorAll('.explorer-business-card');
+const filterCheckBox = document.querySelectorAll(`.dropdown-content label input`);
+const filterTitleName = document.querySelectorAll(`.filter-selector > span`)
+defaultBusinessCards = businessCards;
+filterCheckBox.forEach(element => {
+  // console.log(element.getAttribute('value'));
+  element.addEventListener('click', function (e) {
+    e.stopPropagation();
+    defaultCheckBox = e.target;
+    filterUpdater(defaultBusinessCards, defaultCheckBox, searchFilter);
+    filterTitleUpdater(filterCheckBox, filterTitleName);
+    filterDropdownCityUpdater();
+  })
+})
 
 }
 

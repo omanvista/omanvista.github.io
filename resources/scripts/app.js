@@ -1035,7 +1035,7 @@ function filterTitleUpdater(checkboxes, filterTitle) {
 
 // City filter dropdown updater 
 function filterDropdownCityUpdater() {
-  const filterCity = document.querySelector(`.filter-city .dropdown-content`)
+  const filterCity = document.querySelector(`.filter-city .dropdown-content`);
   // console.log(countries);
   // console.log(locationsDrobDownVar.countries[0].slug);
   // console.log(locationsDrobDownVar);
@@ -1046,14 +1046,15 @@ function filterDropdownCityUpdater() {
         locationsDrobDownVar.countries[index].subcategories.forEach((elem, ind) => {
           filterCity.innerHTML += `
               <label>
-                <span > ${locationsDrobDownVar.countries[index].subcategories[ind].title}</span>
+                <span> ${locationsDrobDownVar.countries[index].subcategories[ind].title}</span>
                 <input type="checkbox" value="${locationsDrobDownVar.countries[index].subcategories[ind].slug}" data-type="city">
-              </label>  `;
+              </label> `;
         })
       }
     })
   })
 
+  
   if (countries.length === 0) {
     locationsDrobDownVar.countries.forEach((key, index) => {
       locationsDrobDownVar.countries[index].subcategories.forEach((elem, ind) => {
@@ -1065,24 +1066,6 @@ function filterDropdownCityUpdater() {
       })
     })
   }
-
-
-// // Filter checkbox - dropdown filter - checkbox event in dropdown list  
-const businessCards = document.querySelectorAll('.explorer-business-card');
-const filterCheckBox = document.querySelectorAll(`.dropdown-content label input`);
-const filterTitleName = document.querySelectorAll(`.filter-selector > span`)
-defaultBusinessCards = businessCards;
-filterCheckBox.forEach(element => {
-  // console.log(element.getAttribute('value'));
-  element.addEventListener('click', function (e) {
-    e.stopPropagation();
-    defaultCheckBox = e.target;
-    filterUpdater(defaultBusinessCards, defaultCheckBox, searchFilter);
-    filterTitleUpdater(filterCheckBox, filterTitleName);
-    filterDropdownCityUpdater();
-  })
-})
-
 }
 
 
